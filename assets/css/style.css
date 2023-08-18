@@ -69,13 +69,13 @@ body {
   transform: translateY(0px);
 }
 .card .content .details h2 {
-  font-size: 1.25rem;
+  font-size: 1.5rem;
   font-weight: 600;
   color: #555;
   line-height: 1.2em;
 }
 .card .content .details h2 span {
-  font-size: 0.75em;
+  font-size: 1rem;
   font-weight: 500;
   opacity: 0.5;
 }
